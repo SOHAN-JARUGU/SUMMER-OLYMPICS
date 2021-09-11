@@ -18,9 +18,9 @@ In this project we will go through 8 main questions like :
 8) Which sport is having most female Gold Medalists? (Top 5 in graph format)
 
 # All files
-SUMMER_OLYMPICS.ipynb
-summer.csv
-README.md
+1)SUMMER_OLYMPICS.ipynb
+2)summer.csv
+3)README.md
 
 # About Me
 My name is sohan jarugu , currently i'm pursuing B.Tech II year (at the time of this code submission). languages known : C , C++ , Python , Java(basic programming)
